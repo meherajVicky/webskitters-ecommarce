@@ -1,0 +1,20 @@
+.login{
+    margin: 10%;
+    padding: 50px;
+}
+form{
+    margin: auto;
+    text-align: center;
+}
+.link{
+    text-decoration: none;
+    margin: 10px;
+    padding: 1px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+}
+.link:hover{
+text-decoration: underline;
+
+}
